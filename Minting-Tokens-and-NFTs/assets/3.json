@@ -1,0 +1,20 @@
+{
+  "name": "Kamata #4",
+  "symbol": "KMT",
+  "description": "Collection of 5 images of Kamata NFT the Solana blockchain. This is the number 4/5.",
+  "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "Art",
+      "value": "4"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.jpg",
+        "type": "image/png"
+      }
+    ]
+  }
+}
