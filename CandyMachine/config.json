@@ -6,7 +6,7 @@
   "isSequential": false,
   "creators": [
     {
-      "address": "8ae4q2yh3ueGLaLP9vqhPkudQ6N3RLKsShehZYPtwQPi",
+      "address": "DX1xGgPRDybNtB6oPBU7QRJKwSMXT7KnRCLeYQNqZfEH",
       "share": 100
     }
   ],
@@ -16,11 +16,11 @@
   "shdwStorageAccount": null,
   "pinataConfig": null,
   "hiddenSettings": null,
-  "guards": {
-    "default": {
-      "solPayment": {
+  "guards":{
+    "default":{
+      "solPayment":{
         "value": 0.1,
-        "destination": "8ae4q2yh3ueGLaLP9vqhPkudQ6N3RLKsShehZYPtwQPi"
+        "destination":"8HsYPLeoWdCbWAE1NrDhz8RebA55XUB26S8s4QcEPPw9"
       }
     }
   }

@@ -71,7 +71,7 @@ export default function Home() {
               <div className={styles.largerTitle}>Candy Machine UI </div>
             </div>
             <div className={styles.inlineContainer}>
-              <div className={styles.largerTitle}>Modified by <b><i>Master</i></b></div>
+              <div className={styles.largerTitle}>Created by <b><i>Kamata</i></b></div>
             </div>
             <div className={`${styles.inlineContainer} ${styles.divAsLink}`} onClick={()=> window.open("", "_blank")}>
               <div className={[styles.smallImageContainer]}>
